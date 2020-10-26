@@ -1,0 +1,9 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Kubernetes, CI/CD, Git, Linux, Containers, Golang... and more",
+  "home_page_url": "https://djblogs.github.io/",
+  "feed_url": "https://djblogs.github.io/index.json",
+  "items": [
+    
+  ]
+}
